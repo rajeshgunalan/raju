@@ -1,1 +1,3 @@
 making the changes in the repository text file
+to point the checksum
+pushing the changes to new branch
