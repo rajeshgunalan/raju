@@ -1,2 +1,3 @@
 how r u
-im getting done
+im getting done 
+this is the practice session for GIT GUI
