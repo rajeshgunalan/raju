@@ -1,2 +1,3 @@
 making the changes in the repository text file
 to point the checksum
+modified version of this file
