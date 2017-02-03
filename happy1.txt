@@ -1,3 +1,7 @@
+
 how r u
 im getting done 
-this is the practice session for GIT GUI
+this is the practice session folder
+making the changes in the repository text file
+to point the checksum
+
